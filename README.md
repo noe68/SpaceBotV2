@@ -28,3 +28,5 @@ SpaceBotV2 offre:
 *   🔔 **Info**: `admins`, `avatar`, `invitemoi`, `members`, `saloninfo` et **+**! 
 *   🏆 **Points**: `actionpoints`, `couronne`, `givepoints`, `leaderboard`, `position` et **+**! 
 *   👑 **Owner**: `delallservpoints`, `quitguild`, `servers`, `eval`, `deluserpoints` et **+**! 
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
